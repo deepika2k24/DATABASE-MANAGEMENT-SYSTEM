@@ -21,7 +21,4 @@ It demonstrates key database concepts such as normalization, relationships, and 
 - **Language:** SQL  
 - **Interface:** MySQL Workbench / DBeaver / VS Code SQL Extension  
 
-## 🚀 Future Scope
-- Integration with frontend applications.  
-- Implementation of stored procedures and triggers.  
-- Role-based access and backup automation.  
+
